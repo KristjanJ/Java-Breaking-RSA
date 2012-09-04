@@ -1,7 +1,7 @@
 Java-Breaking-RSA
 =================
 
-A program for factoring very large semiprimes using the quadratic sieve algorithm. Used to break/crack RSA. This program is highly parallel. It is intended to be ran on Hadoop clusters, but can be ran on localhost as well. For more info about the quadratic sieve algorithm refer to: http://en.wikipedia.org/wiki/Quadratic_sieve
+A program for factoring very large semiprimes using the quadratic sieve algorithm. Used to break/crack RSA. This program is highly parallel. It is intended to be ran on Hadoop clusters, but can be ran on localhost as well. Read the manual for usage info. For more info about the quadratic sieve algorithm refer to: http://en.wikipedia.org/wiki/Quadratic_sieve
 
 
 Example output:
